@@ -1,1 +1,1 @@
-web: gunicorn backend.plantapi.wsgi
+web: gunicorn plantapi.wsgi
